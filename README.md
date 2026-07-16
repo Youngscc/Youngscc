@@ -8,7 +8,7 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+
 <!--
 **Youngscc/Youngscc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
