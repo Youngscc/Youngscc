@@ -6,9 +6,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Youngscc/Youngscc/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngscc&layout=compact&theme=tokyonight)
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Youngscc)](https://github.com/stats-organization/github-stats-extended)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 <!--
 **Youngscc/Youngscc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
